@@ -1,4 +1,8 @@
-# Internal Lab Examination Writeup
+CASE STUDY
+
+Hogwarts Hogwarts is a complex environment filled with magical obstacles and dynamic elements. This case study applies Artificial Intelligence (AI) search algorithms to solve problems within Hogwarts, such as navigating the castle, traversing a Triwizard Maze, and customizing a magic wand.
+
+
 
 ## 1. Problem Description and Explanation
 
